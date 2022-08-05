@@ -12,6 +12,9 @@ class RoomsController < ApplicationController
     end
   end
 
+  def inndex
+  end
+
   private
 
   def room_params
